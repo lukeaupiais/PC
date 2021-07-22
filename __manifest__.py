@@ -1,5 +1,8 @@
 # -*- coding: utf-8 -*-
 
 {
-    'name': 'LukeTest'
+    'name': 'LukeTest',
+    'installable': True,
+    'application': True,
+    'auto_install': False
 }
