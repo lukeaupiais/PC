@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 
 {
-    'name': 'LukeTest',
+    'name': 'EstateProperty',
     'installable': True,
     'application': True,
     'auto_install': False,
