@@ -1,7 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\models",
+    "\\security",
+    "\\views"
   ],
-  "SelectedNode": "\\__manifest__.py",
+  "SelectedNode": "\\views\\estate_menus.xml",
   "PreviewInSolutionExplorer": false
 }
